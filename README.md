@@ -64,8 +64,6 @@ todo application
 
 
 
-  # Author 
-  - Kumordzi Joshua Klenam
 
 
   # acknowledgments
